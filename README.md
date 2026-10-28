@@ -1,0 +1,1 @@
+# DDL_COMMANDS_SQL
